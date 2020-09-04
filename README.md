@@ -22,8 +22,11 @@ BOM:
  * 1x 300x300 Voron 2.2
  * A bunch of other stuff
 
+Discord: https://discord.gg/MzTR3zE
+
 There are no instructions or manual. 
 
 This is offered under no obligation or warranty. 
 
 Good luck.
+
